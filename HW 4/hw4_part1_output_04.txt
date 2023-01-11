@@ -1,0 +1,11 @@
+Select the list of common passwords by entering a number between 0 and 1 => 1
+1
+Enter a password => with2$valid3numbers
+with2$valid3numbers
+Rule 1 is satisfied
+Rule 2 is satisfied
+Rule 3 is satisfied
+Rule 4 is satisfied
+Rule 5 is satisfied
+Rule 6 is satisfied
+The password is valid

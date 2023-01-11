@@ -1,0 +1,10 @@
+Enter the coin file name => coins_01-03.txt
+coins_01-03.txt
+Enter the item cost in cents (0-100) => 80
+80
+
+I have the following coins:
+[50, 50, 50, 50, 50, 50, 25, 25, 10, 5, 1, 1]
+Change from $1.00 is 20 cents
+I cannot make change with my current coins.
+I need an additional 3 cents.

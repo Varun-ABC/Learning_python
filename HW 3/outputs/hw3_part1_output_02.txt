@@ -1,0 +1,9 @@
+Enter the coin file name => coins_01-03.txt
+coins_01-03.txt
+Enter the item cost in cents (0-100) => 0
+0
+
+I have the following coins:
+[50, 50, 50, 50, 50, 50, 25, 25, 10, 5, 1, 1]
+Change from $1.00 is 100 cents
+2 Half Dollars, 0 Quarters, 0 Dimes, 0 Nickels, 0 Pennies

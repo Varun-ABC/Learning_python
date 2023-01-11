@@ -1,0 +1,21 @@
+Select the list of common passwords by entering a number between 0 and 1 => 0
+
+0
+
+Enter a password => this_is_#lowercase
+
+this_is_#lowercase
+
+Rule 1 is satisfied
+
+Rule 2 is satisfied
+
+Rule 3 is not satisfied
+
+Rule 4 is not satisfied
+
+Rule 5 is satisfied
+
+Rule 6 is satisfied
+
+A suggested password is: thi42ase

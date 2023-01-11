@@ -1,0 +1,20 @@
+Select the list of common passwords by entering a number between 0 and 1 => 1
+1
+
+Enter a password => 1234
+
+1234
+
+Rule 1 is not satisfied
+
+Rule 2 is not satisfied
+
+Rule 3 is not satisfied
+
+Rule 4 is satisfied
+
+Rule 5 is satisfied
+
+Rule 6 is satisfied
+
+The password is not valid

@@ -1,0 +1,39 @@
+Dictionary file => words_10percent.txt
+words_10percent.txt
+Input file => input_words.txt
+input_words.txt
+Keyboard file => keyboard.txt
+keyboard.txt
+barely          -> barely          :FOUND
+carats          -> carats          :FOUND
+confabs         -> confabs         :FOUND
+corepulent      -> corpulent       :MATCH 1
+costumye        -> costumey        :MATCH 1
+pamek           -> pamek           :NO MATCH
+darjed          -> darned          :MATCH 1
+darjed          -> dared           :MATCH 2
+darjed          -> darked          :MATCH 3
+doitd           -> doit            :MATCH 1
+doitd           -> doits           :MATCH 2
+dovrtailing     -> dovetailing     :MATCH 1
+flavoonls       -> flavonols       :MATCH 1
+outstpend       -> outspend        :MATCH 1
+hut             -> shut            :MATCH 1
+hut             -> jut             :MATCH 2
+pashas          -> pashas          :FOUND
+poolry          -> poorly          :MATCH 1
+poolry          -> poly            :MATCH 2
+quixmasters     -> quizmasters     :MATCH 1
+relocatiing     -> relocating      :MATCH 1
+sorceresd       -> sorceress       :MATCH 1
+turbulences     -> turbulences     :FOUND
+sut             -> shut            :MATCH 1
+inteters        -> inters          :MATCH 1
+inteters        -> integers        :MATCH 2
+marteatment     -> marteatment     :NO MATCH
+agew            -> ages            :MATCH 1
+agew            -> agee            :MATCH 2
+agew            -> anew            :MATCH 3
+shu             -> shut            :MATCH 1
+shu             -> shy             :MATCH 2
+shu             -> shh             :MATCH 3

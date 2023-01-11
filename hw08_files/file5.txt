@@ -1,0 +1,1 @@
+[{'universe_name': 'AllTheBasicsCS1', 'rewards': [], 'portals': [], 'individuals': [['Scientist', 22, 751, 345, 20, -17], ['Archie', 10, 1, 1, 10, 10], ['Engineer', 25, 281, 744, -24, -16], ['Artist', 20, 78, 157, -9, 10], ['Manager', 18, 170, 0, 10, 17]]}]
